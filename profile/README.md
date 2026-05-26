@@ -83,7 +83,9 @@ To become the first choice for clients seeking advanced IT services by deliverin
 - **Infra Command Center** – Unified gateway for API management, access control, and infrastructure monitoring  
 
 ### **AI & Developer Tools**
-- **TzamunAI** – Enterprise-grade on-prem AI with zero vendor dependency  
+- **TzamunAI** – Enterprise-grade on-prem AI with zero vendor dependency
+- **Auxly** - AI Task Management
+- **AuxlyCLI** - AI Unified Memeory  
 - **DevAssist (VSCode MCP)** – Context-aware AI assistant for developers  
 - **VoiceHub** – Arabic voice automation for Saudi markets  
 
