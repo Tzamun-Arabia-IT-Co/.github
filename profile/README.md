@@ -5,7 +5,7 @@
 <h1 align="center">Tzamun Arabia IT Co.<br/><span style="font-size:22px; color:#555;">شركة تزامن العربية لتقنية المعلومات</span></h1>
 
 <p align="center">
-  Leading Technology Partner Delivering Innovative Digital Solutions Across Saudi Arabia and the GCC.
+  Leading Technology Partner Delivering Innovative Digital Solutions Across Saudi Arabia .
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 Tzamun Arabia IT Co. is a Saudi technology company delivering modern, scalable, and mission‑critical digital platforms.  
 We help organizations transform their operations through custom software development, cloud services, AI solutions, and enterprise‑grade infrastructure.
 
-Our focus is on building high‑quality digital products that support business growth, operational efficiency, and long‑term digital transformation across Saudi Arabia and the GCC.
+Our focus is on building high‑quality digital products that support business growth, operational efficiency, and long‑term digital transformation across Saudi Arabia .
 
 ---
 
@@ -85,7 +85,7 @@ To become the first choice for clients seeking advanced IT services by deliverin
 ### **AI & Developer Tools**
 - **TzamunAI** – Enterprise-grade on-prem AI with zero vendor dependency  
 - **DevAssist (VSCode MCP)** – Context-aware AI assistant for developers  
-- **VoiceHub** – Arabic voice automation for Saudi and GCC markets  
+- **VoiceHub** – Arabic voice automation for Saudi markets  
 
 ### **Other Digital Ventures**
 - **MotorMind** – Automotive workshop and garage management system  
