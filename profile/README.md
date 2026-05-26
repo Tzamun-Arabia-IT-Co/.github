@@ -73,7 +73,7 @@ To become the first choice for clients seeking advanced IT services by deliverin
 ## 🏢 Industry Platforms & Products
 
 ### **Healthcare & Medical Platforms**
-- **Tabeeb** – Appointment booking, offers, promotions, and multi-profile patient management  
+- **eTabeb** – Appointment booking, offers, promotions, and multi-profile patient management  
 - **PathologyHub** – Connects medical facilities with expert pathologists across KSA  
 - **RadiologyHub** – Remote radiology reporting and diagnostic imaging analysis  
 
