@@ -180,6 +180,19 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 ---
 
+## 🤝 Technology Partners
+
+<div align="center">
+
+<a href="https://partner.microsoft.com"><img src="https://img.shields.io/badge/Microsoft_Partner-0067B8?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Partner"/></a>
+<a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Anthropic_(Claude)_Partner-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic (Claude) Partner"/></a>
+<a href="https://www.nvidia.com"><img src="https://img.shields.io/badge/NVIDIA_Partner-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Partner"/></a>
+<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS_Partner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" alt="AWS Partner"/></a>
+
+</div>
+
+---
+
 ## 🌍 Get in Touch
 
 <div align="center">
