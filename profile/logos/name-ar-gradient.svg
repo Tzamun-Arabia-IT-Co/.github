@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a8fa8"/>
+      <stop offset="100%" stop-color="#4dbea4"/>
+    </linearGradient>
+  </defs>
+  <text x="450" y="78" font-family="Geeza Pro, SF Arabic, Segoe UI, Tahoma, Arial, sans-serif" font-size="54" font-weight="700" fill="url(#g)" text-anchor="middle" direction="rtl">شركة تزامن العربية لتقنية المعلومات</text>
+</svg>

@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/main/Tzamun-Half-White-Logo@2x.png" width="200" alt="Tzamun Arabia IT Co."/>
+<img src="logos/tzamun-icon.png" width="120" alt="Tzamun"/>
+
+<br/>
 
 <img src="logos/name-gradient.png" width="580" alt="Tzamun Arabia IT Co."/>
 
-### شركة تزامن العربية لتقنية المعلومات
+<br/>
+
+<img src="logos/name-ar-gradient.svg" width="560" alt="شركة تزامن العربية لتقنية المعلومات"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1A73E8&center=true&vCenter=true&random=false&width=640&height=40&lines=Enterprise+Software+%7C+Sovereign+AI+%7C+Cloud+Infrastructure;Building+Saudi+Arabia's+digital+future+%F0%9F%87%B8%F0%9F%87%A6" alt="Typing SVG"/></a>
 
@@ -225,16 +229,9 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/main/Tzamun-Half-White-Logo@2x.png">
-  <img src="logos/tzamun-logo.png" width="300" alt="Tzamun Arabia IT Co."/>
-</picture>
-
-<br/>
-
 **© 2026 Tzamun Arabia IT Co.** · All rights reserved
 
-Proudly crafted in Saudi Arabia 🇸🇦 · Aligned with Vision 2030
+Jeddah, Saudi Arabia · Proudly crafted in 🇸🇦 · Aligned with Vision 2030
 
 </div>
 
