@@ -197,19 +197,49 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 <div align="center">
 
-**Tzamun Arabia IT Co.** · 📍 Jeddah, Saudi Arabia
+<a href="https://tzamun.sa"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1300&color=1B95A8&center=true&vCenter=true&random=false&width=560&height=34&lines=Let%27s+build+something+exceptional+together.%3BReach+out+at+info%40tzamun.sa+%E2%80%94+we%27d+love+to+hear+from+you." alt="Typing SVG"/></a>
 
-<a href="https://tzamun.sa"><img src="https://img.shields.io/badge/Website-tzamun.sa-1A73E8?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:info@tzamun.sa"><img src="https://img.shields.io/badge/Email-info%40tzamun.sa-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</div>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://tzamun.sa"><img src="icons/globe.svg" width="34" alt="Website"/></a><br/>
+      <b>Website</b><br/>
+      <a href="https://tzamun.sa">tzamun.sa</a>
+    </td>
+    <td width="33%" align="center">
+      <a href="mailto:info@tzamun.sa"><img src="icons/mail.svg" width="34" alt="Email"/></a><br/>
+      <b>Email</b><br/>
+      <a href="mailto:info@tzamun.sa">info@tzamun.sa</a>
+    </td>
+    <td width="33%" align="center">
+      <img src="icons/map-pin.svg" width="34" alt="Headquarters"/><br/>
+      <b>Headquarters</b><br/>
+      Jeddah, Saudi Arabia
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/main/Tzamun-Half-White-Logo@2x.png">
+  <img src="logos/tzamun-logo.png" width="300" alt="Tzamun Arabia IT Co."/>
+</picture>
 
 <br/>
 
-<a href="https://tzamun.sa"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1300&color=1B95A8&center=true&vCenter=true&random=false&width=560&height=34&lines=Let%27s+build+something+exceptional+together.%3BReach+out+at+info%40tzamun.sa+%E2%80%94+we%27d+love+to+hear+from+you." alt="Typing SVG"/></a>
+**© 2026 Tzamun Arabia IT Co.** · All rights reserved
+
+Proudly crafted in Saudi Arabia 🇸🇦 · Aligned with Vision 2030
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1B95A8,50:34A853,100:1A73E8&text=Tzamun+Arabia+IT+Co.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1B95A8,50:34A853,100:1A73E8&text=Thank+You+for+Visiting&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=34" width="100%" alt=""/>
 
 </div>
