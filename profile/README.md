@@ -106,8 +106,8 @@ We design, build, and operate **mission-critical digital platforms** — from fu
       <sub>Privileged Access Management for modern data centers — developed & hosted in Saudi Arabia</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/Infra_Command_Center-475569?style=for-the-badge&logo=grafana&logoColor=white" alt="Infra Command Center"/><br/>
-      <sub>Unified gateway for API management, access control & infrastructure monitoring</sub>
+      <img src="https://img.shields.io/badge/TCHub-475569?style=for-the-badge&logo=grafana&logoColor=white" alt="TCHub"/><br/>
+      <sub>Tzamun Control Hub — unified gateway for API management, access control & infrastructure monitoring</sub>
     </td>
   </tr>
 </table>
@@ -122,7 +122,7 @@ We design, build, and operate **mission-critical digital platforms** — from fu
     </td>
     <td width="25%" valign="top" align="center">
       <a href="https://auxly.io"><img src="https://img.shields.io/badge/Auxly-8A2BE2?style=for-the-badge&logo=task&logoColor=white" alt="Auxly"/></a><br/>
-      <sub>AI task management with unified memory (AuxlyCLI)</sub>
+      <sub>AI task management with unified memory (Auxly-Memory)</sub>
     </td>
     <td width="25%" valign="top" align="center">
       <img src="https://img.shields.io/badge/DevAssist-181717?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="DevAssist"/><br/>
