@@ -135,17 +135,13 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://motormind.autos"><img src="logos/card-motormind.png" width="230" alt="MotorMind"/></a><br/>
       <sub>Automotive workshop & garage management system</sub>
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="logos/card-manal.png" width="230" alt="Manal Bags"/><br/>
+    <td width="50%" valign="top" align="center">
+      <img src="logos/manal-card.png" width="230" alt="Manal Bags"/><br/>
       <sub>Rent premium designer handbags in Saudi Arabia</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/White--label_AI_&_Voice-334155?style=for-the-badge&logo=cachet&logoColor=white" alt="White-label AI & Voice"/><br/>
-      <sub>In partnership with DataQueue Inc.</sub>
     </td>
   </tr>
 </table>
@@ -164,6 +160,9 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" alt="Android Studio"/>
 
 <br/>
 
