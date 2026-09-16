@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="logos/tzamun-icon.png" width="120" alt="Tzamun"/>
+<img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/tzamun-icon.png" width="120" alt="Tzamun"/>
 
 <br/>
 
-<img src="logos/name-gradient.png" width="580" alt="Tzamun Arabia IT Co."/>
+<img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/name-gradient.png" width="580" alt="Tzamun Arabia IT Co."/>
 
 <br/>
 
-<img src="logos/name-ar-gradient.svg" width="560" alt="شركة تزامن العربية لتقنية المعلومات"/>
+<img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/name-ar-gradient.svg" width="560" alt="شركة تزامن العربية لتقنية المعلومات"/>
 
 <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/animations/platforms.svg" width="100%" alt="Engineering the digital future — enterprise software, sovereign AI, and cloud infrastructure. Built in Saudi Arabia."/>
 
@@ -54,31 +54,31 @@ From product design and development to deployment and ongoing support.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="icons/monitor.svg" width="18" alt=""/> Custom Software</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/monitor.svg" width="18" alt=""/> Custom Software</h3>
       <p>Business & enterprise applications, corporate web platforms, and e-commerce built to scale.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="icons/smartphone.svg" width="18" alt=""/> Mobile Apps</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/smartphone.svg" width="18" alt=""/> Mobile Apps</h3>
       <p>Native iOS & Android apps with smart application design and end-to-end delivery.</p>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h3><img src="icons/cloud.svg" width="18" alt=""/> Cloud & Infrastructure</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/cloud.svg" width="18" alt=""/> Cloud & Infrastructure</h3>
       <p>AWS · Azure · GCP · OCI · OVHcloud — hosting, VPS, hybrid & on-premise deployments.</p>
     </td>
     <td valign="top">
-      <h3><img src="icons/sparkles.svg" width="18" alt=""/> Enterprise AI</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/sparkles.svg" width="18" alt=""/> Enterprise AI</h3>
       <p>Sovereign, on-premise AI infrastructure — zero vendor dependency, PDPL-compliant.</p>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h3><img src="icons/pen-tool.svg" width="18" alt=""/> UI/UX & Product Design</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/pen-tool.svg" width="18" alt=""/> UI/UX & Product Design</h3>
       <p>Prototyping, user research, and experience design that puts users first.</p>
     </td>
     <td valign="top">
-      <h3><img src="icons/life-buoy.svg" width="18" alt=""/> Consulting & Support</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/life-buoy.svg" width="18" alt=""/> Consulting & Support</h3>
       <p>Digital transformation, system integration, workflow automation, long-term support.</p>
     </td>
   </tr>
@@ -92,79 +92,79 @@ From product design and development to deployment and ongoing support.
 
 Purpose-built products for healthcare, business operations, AI, and everyday services.
 
-### <img src="icons/heart-pulse.svg" width="24" alt=""/> Healthcare & Medical
+### <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/heart-pulse.svg" width="24" alt=""/> Healthcare & Medical
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://etabeb.com"><img src="logos/card-etabeb.png" width="230" alt="eTabeb"/></a><br/>
+      <a href="https://etabeb.com"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-etabeb.png" width="230" alt="eTabeb"/></a><br/>
       <p>Appointment booking, offers & promotions, and multi-profile patient management</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="logos/card-pathconnect.png" width="230" alt="PathConnect"/><br/>
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-pathconnect.png" width="230" alt="PathConnect"/><br/>
       <p>Connects medical facilities with expert pathologists across KSA</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top" align="center">
-      <img src="logos/card-radioconnect.png" width="230" alt="RadioConnect"/><br/>
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-radioconnect.png" width="230" alt="RadioConnect"/><br/>
       <p>Remote radiology reporting and diagnostic imaging analysis</p>
     </td>
   </tr>
 </table>
 
-### <img src="icons/building-2.svg" width="24" alt=""/> Enterprise & Operations
+### <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/building-2.svg" width="24" alt=""/> Enterprise & Operations
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://tzamunerp.com"><img src="logos/card-tzamunerp.png" width="230" alt="TzamunERP"/></a><br/>
+      <a href="https://tzamunerp.com"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-tzamunerp.png" width="230" alt="TzamunERP"/></a><br/>
       <p>Full-scale operations management for healthcare, manufacturing & SMEs — ZATCA-compliant</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://raqeb.cloud"><img src="logos/card-raqeb.png" width="230" alt="Raqeb PAM"/></a><br/>
+      <a href="https://raqeb.cloud"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-raqeb.png" width="230" alt="Raqeb PAM"/></a><br/>
       <p>Privileged Access Management for modern data centers — developed & hosted in Saudi Arabia</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top" align="center">
-      <img src="logos/card-tchub.png" width="230" alt="TCHub"/><br/>
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-tchub.png" width="230" alt="TCHub"/><br/>
       <p>Tzamun Control Hub — unified gateway for API management, access control & infrastructure monitoring</p>
     </td>
   </tr>
 </table>
 
-### <img src="icons/bot.svg" width="24" alt=""/> AI & Developer Tools
+### <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/bot.svg" width="24" alt=""/> AI & Developer Tools
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://tzamun.ai"><img src="logos/card-tzamunai.png" width="230" alt="TzamunAI"/></a><br/>
+      <a href="https://tzamun.ai"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-tzamunai.png" width="230" alt="TzamunAI"/></a><br/>
       <p>Enterprise-grade on-premise AI — zero vendor dependency</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://auxly.io"><img src="logos/card-auxly.png" width="230" alt="Auxly"/></a><br/>
+      <a href="https://auxly.io"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-auxly.png" width="230" alt="Auxly"/></a><br/>
       <p>AI task management with unified memory (Auxly-Memory)</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top" align="center">
-      <img src="logos/card-voicehub.png" width="230" alt="VoiceHub"/><br/>
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-voicehub.png" width="230" alt="VoiceHub"/><br/>
       <p>Arabic voice automation for Saudi markets</p>
     </td>
   </tr>
 </table>
 
-### <img src="icons/car.svg" width="24" alt=""/> Other Digital Ventures
+### <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/car.svg" width="24" alt=""/> Other Digital Ventures
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://motormind.autos"><img src="logos/card-motormind.png" width="230" alt="MotorMind"/></a><br/>
+      <a href="https://motormind.autos"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-motormind.png" width="230" alt="MotorMind"/></a><br/>
       <p>Automotive workshop & garage management system</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="logos/manal-card.png" width="230" alt="Manal Bags"/><br/>
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/manal-card.png" width="230" alt="Manal Bags"/><br/>
       <p>Rent premium designer handbags in Saudi Arabia</p>
     </td>
   </tr>
@@ -201,10 +201,10 @@ The tools behind our web, mobile, cloud, and AI platforms.
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="stack/aws.svg" height="28" alt="AWS"/>
-<img src="stack/azure.svg" height="28" alt="Azure"/>
+<img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/stack/aws.svg" height="28" alt="AWS"/>
+<img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/stack/azure.svg" height="28" alt="Azure"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-<img src="stack/oracle.svg" height="28" alt="OCI"/>
+<img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/stack/oracle.svg" height="28" alt="OCI"/>
 <img src="https://img.shields.io/badge/OVHcloud-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVHcloud"/>
 
 </div>
@@ -217,10 +217,10 @@ The tools behind our web, mobile, cloud, and AI platforms.
 
 <div align="center">
 
-<a href="https://partner.microsoft.com"><img src="partners/microsoft.svg" height="32" alt="Microsoft Partner"/></a>
+<a href="https://partner.microsoft.com"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/partners/microsoft.svg" height="32" alt="Microsoft Partner"/></a>
 <a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Anthropic_(Claude)_Partner-D97757?style=for-the-badge&logo=anthropic&logoColor=000000" height="32" alt="Anthropic (Claude) Partner"/></a>
 <a href="https://www.nvidia.com"><img src="https://img.shields.io/badge/NVIDIA_Partner-76B900?style=for-the-badge&logo=nvidia&logoColor=000000" height="32" alt="NVIDIA Partner"/></a>
-<a href="https://aws.amazon.com"><img src="partners/aws.svg" height="32" alt="AWS Partner"/></a>
+<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/partners/aws.svg" height="32" alt="AWS Partner"/></a>
 
 </div>
 
@@ -239,17 +239,17 @@ The tools behind our web, mobile, cloud, and AI platforms.
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://tzamun.sa"><img src="icons/globe.svg" width="34" alt="Website"/></a><br/>
+      <a href="https://tzamun.sa"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/globe.svg" width="34" alt="Website"/></a><br/>
       <b>Website</b><br/>
       <a href="https://tzamun.sa">tzamun.sa</a>
     </td>
     <td width="33%" align="center">
-      <a href="mailto:info@tzamun.sa"><img src="icons/mail.svg" width="34" alt="Email"/></a><br/>
+      <a href="mailto:info@tzamun.sa"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/mail.svg" width="34" alt="Email"/></a><br/>
       <b>Email</b><br/>
       <a href="mailto:info@tzamun.sa">info@tzamun.sa</a>
     </td>
     <td width="33%" align="center">
-      <img src="icons/map-pin.svg" width="34" alt="Headquarters"/><br/>
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/map-pin.svg" width="34" alt="Headquarters"/><br/>
       <b>Headquarters</b><br/>
       Jeddah, Saudi Arabia
     </td>
