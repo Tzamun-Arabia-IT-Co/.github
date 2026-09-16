@@ -23,7 +23,7 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 ---
 
-## 🧭 Who We Are
+## <img src="logos/tzamun-icon.png" width="24" style="vertical-align:middle" alt=""/> Who We Are
 
 **Tzamun Arabia IT Co.** is a Saudi technology company delivering modern, scalable, and mission-critical digital platforms. We help organizations transform their operations through custom software development, cloud services, AI solutions, and enterprise-grade infrastructure — with a focus on quality, security, and long-term partnership.
 
@@ -35,36 +35,36 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 ---
 
-## 💼 What We Do
+## <img src="logos/tzamun-icon.png" width="24" style="vertical-align:middle" alt=""/> What We Do
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖥️ Custom Software</h3>
+      <h3><img src="logos/tzamun-icon.png" width="18" style="vertical-align:middle"/> Custom Software</h3>
       <p>Business & enterprise applications, corporate web platforms, and e-commerce built to scale.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Mobile Apps</h3>
+      <h3><img src="logos/tzamun-icon.png" width="18" style="vertical-align:middle"/> Mobile Apps</h3>
       <p>Native iOS & Android apps with smart application design and end-to-end delivery.</p>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h3>☁️ Cloud & Infrastructure</h3>
+      <h3><img src="logos/tzamun-icon.png" width="18" style="vertical-align:middle"/> Cloud & Infrastructure</h3>
       <p>AWS · Azure · GCP · OCI · OVHcloud — hosting, VPS, hybrid & on-premise deployments.</p>
     </td>
     <td valign="top">
-      <h3>🤖 Enterprise AI</h3>
+      <h3><img src="logos/tzamun-icon.png" width="18" style="vertical-align:middle"/> Enterprise AI</h3>
       <p>Sovereign, on-premise AI infrastructure — zero vendor dependency, PDPL-compliant.</p>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h3>🎨 UI/UX & Product Design</h3>
+      <h3><img src="logos/tzamun-icon.png" width="18" style="vertical-align:middle"/> UI/UX & Product Design</h3>
       <p>Prototyping, user research, and experience design that puts users first.</p>
     </td>
     <td valign="top">
-      <h3>🔧 Consulting & Support</h3>
+      <h3><img src="logos/tzamun-icon.png" width="18" style="vertical-align:middle"/> Consulting & Support</h3>
       <p>Digital transformation, system integration, workflow automation, long-term support.</p>
     </td>
   </tr>
@@ -72,9 +72,9 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 ---
 
-## 🚀 Flagship Products & Platforms
+## <img src="logos/tzamun-icon.png" width="24" style="vertical-align:middle" alt=""/> Flagship Products & Platforms
 
-### 🏥 Healthcare & Medical
+### <img src="logos/tzamun-icon.png" width="24" style="vertical-align:middle" alt=""/> Healthcare & Medical
 
 <table>
   <tr>
@@ -93,7 +93,7 @@ We design, build, and operate **mission-critical digital platforms** — from fu
   </tr>
 </table>
 
-### 🏢 Enterprise & Operations
+### <img src="logos/tzamun-icon.png" width="24" style="vertical-align:middle" alt=""/> Enterprise & Operations
 
 <table>
   <tr>
@@ -112,7 +112,7 @@ We design, build, and operate **mission-critical digital platforms** — from fu
   </tr>
 </table>
 
-### 🤖 AI & Developer Tools
+### <img src="logos/tzamun-icon.png" width="24" style="vertical-align:middle" alt=""/> AI & Developer Tools
 
 <table>
   <tr>
@@ -131,7 +131,7 @@ We design, build, and operate **mission-critical digital platforms** — from fu
   </tr>
 </table>
 
-### 🚗 Other Digital Ventures
+### <img src="logos/tzamun-icon.png" width="24" style="vertical-align:middle" alt=""/> Other Digital Ventures
 
 <table>
   <tr>
@@ -148,7 +148,7 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 ---
 
-## 🛠️ Technology Stack
+## <img src="logos/tzamun-icon.png" width="24" style="vertical-align:middle" alt=""/> Technology Stack
 
 <div align="center">
 
@@ -180,7 +180,7 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 ---
 
-## 🤝 Technology Partners
+## <img src="logos/tzamun-icon.png" width="24" style="vertical-align:middle" alt=""/> Technology Partners
 
 <div align="center">
 
@@ -193,7 +193,7 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 ---
 
-## 🌍 Get in Touch
+## <img src="logos/tzamun-icon.png" width="24" style="vertical-align:middle" alt=""/> Get in Touch
 
 <div align="center">
 
@@ -204,6 +204,12 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 <br/>
 
-*Let's build something exceptional together.* 🚀
+<a href="https://tzamun.sa"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1300&color=1B95A8&center=true&vCenter=true&random=false&width=560&height=34&lines=Let%27s+build+something+exceptional+together.%3BReach+out+at+info%40tzamun.sa+%E2%80%94+we%27d+love+to+hear+from+you." alt="Typing SVG"/></a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1B95A8,50:34A853,100:1A73E8&text=Tzamun+Arabia+IT+Co.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" alt=""/>
 
 </div>
