@@ -10,7 +10,7 @@
 
 <img src="logos/name-ar-gradient.svg" width="560" alt="شركة تزامن العربية لتقنية المعلومات"/>
 
-<img src="animations/platforms.svg" width="100%" alt="Engineering the digital future — enterprise software, sovereign AI, and cloud infrastructure. Built in Saudi Arabia."/>
+<img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/animations/platforms.svg" width="100%" alt="Engineering the digital future — enterprise software, sovereign AI, and cloud infrastructure. Built in Saudi Arabia."/>
 
 We design, build, and operate **mission-critical digital platforms** — from full-scale ERP and healthcare systems to on-premise AI and privileged-access security — engineered for Saudi businesses and aligned with **Vision 2030**.
 
@@ -33,7 +33,7 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 <a name="about"></a>
 
-## <img src="sections/about.svg" width="100%" alt="Who we are"/>
+## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/sections/about.svg" width="100%" alt="Who we are"/>
 
 **Tzamun Arabia IT Co.** is a Saudi technology company delivering modern, scalable, and mission-critical digital platforms. We help organizations transform their operations through custom software development, cloud services, AI solutions, and enterprise-grade infrastructure — with a focus on quality, security, and long-term partnership.
 
@@ -47,7 +47,7 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 <a name="services"></a>
 
-## <img src="sections/services.svg" width="100%" alt="What we do"/>
+## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/sections/services.svg" width="100%" alt="What we do"/>
 
 From product design and development to deployment and ongoing support.
 
@@ -88,7 +88,7 @@ From product design and development to deployment and ongoing support.
 
 <a name="platforms"></a>
 
-## <img src="sections/platforms.svg" width="100%" alt="Our platforms"/>
+## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/sections/platforms.svg" width="100%" alt="Our platforms"/>
 
 Purpose-built products for healthcare, business operations, AI, and everyday services.
 
@@ -174,7 +174,7 @@ Purpose-built products for healthcare, business operations, AI, and everyday ser
 
 <a name="technology"></a>
 
-## <img src="sections/technology.svg" width="100%" alt="Technology stack"/>
+## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/sections/technology.svg" width="100%" alt="Technology stack"/>
 
 The tools behind our web, mobile, cloud, and AI platforms.
 
@@ -182,30 +182,30 @@ The tools behind our web, mobile, cloud, and AI platforms.
 
 **Languages & Frameworks**
 
-<img src="https://img.shields.io/badge/TypeScript-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=typescript&logoColor=6CE2CE" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=javascript&logoColor=6CE2CE" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=python&logoColor=6CE2CE" alt="Python"/>
-<img src="https://img.shields.io/badge/Node.js-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=nodedotjs&logoColor=6CE2CE" alt="Node.js"/>
-<img src="https://img.shields.io/badge/React-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=react&logoColor=6CE2CE" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=nextdotjs&logoColor=6CE2CE" alt="Next.js"/>
-<img src="https://img.shields.io/badge/.NET-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=dotnet&logoColor=6CE2CE" alt=".NET"/>
-<img src="https://img.shields.io/badge/Swift-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=swift&logoColor=6CE2CE" alt="Swift"/>
-<img src="https://img.shields.io/badge/Android_Studio-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=androidstudio&logoColor=6CE2CE" alt="Android Studio"/>
-<img src="https://img.shields.io/badge/Angular-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=angular&logoColor=6CE2CE" alt="Angular"/>
-<img src="https://img.shields.io/badge/JSON-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=json&logoColor=6CE2CE" alt="JSON"/>
-<img src="https://img.shields.io/badge/MCP-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=modelcontextprotocol&logoColor=6CE2CE" alt="Model Context Protocol"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" alt="Android Studio"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+<img src="https://img.shields.io/badge/MCP-1B95A8?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
 
 <br/>
 
 **Cloud & DevOps**
 
-<img src="https://img.shields.io/badge/Docker-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=docker&logoColor=6CE2CE" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=kubernetes&logoColor=6CE2CE" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/AWS-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=amazonaws&logoColor=6CE2CE" alt="AWS"/>
-<img src="https://img.shields.io/badge/Azure-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=microsoftazure&logoColor=6CE2CE" alt="Azure"/>
-<img src="https://img.shields.io/badge/GCP-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=googlecloud&logoColor=6CE2CE" alt="GCP"/>
-<img src="https://img.shields.io/badge/OCI-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=oracle&logoColor=6CE2CE" alt="OCI"/>
-<img src="https://img.shields.io/badge/OVHcloud-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=ovh&logoColor=6CE2CE" alt="OVHcloud"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="stack/aws.svg" height="28" alt="AWS"/>
+<img src="stack/azure.svg" height="28" alt="Azure"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+<img src="stack/oracle.svg" height="28" alt="OCI"/>
+<img src="https://img.shields.io/badge/OVHcloud-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVHcloud"/>
 
 </div>
 
@@ -213,7 +213,7 @@ The tools behind our web, mobile, cloud, and AI platforms.
 
 <a name="partners"></a>
 
-## <img src="sections/partners.svg" width="100%" alt="Technology partners"/>
+## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/sections/partners.svg" width="100%" alt="Technology partners"/>
 
 <div align="center">
 
@@ -228,11 +228,11 @@ The tools behind our web, mobile, cloud, and AI platforms.
 
 <a name="contact"></a>
 
-## <img src="sections/contact.svg" width="100%" alt="Get in touch"/>
+## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/sections/contact.svg" width="100%" alt="Get in touch"/>
 
 <div align="center">
 
-<a href="https://tzamun.sa"><img src="animations/connect.svg" width="100%" alt="Let’s build what comes next. Start a conversation at tzamun.sa."/></a>
+<a href="https://tzamun.sa"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/animations/connect.svg" width="100%" alt="Let’s build what comes next. Start a conversation at tzamun.sa."/></a>
 
 </div>
 
