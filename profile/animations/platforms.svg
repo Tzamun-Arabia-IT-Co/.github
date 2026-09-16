@@ -6,10 +6,10 @@
     <linearGradient id="accent"><stop stop-color="#25d3b0"/><stop offset="1" stop-color="#4ba3ff"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#178c9b" stop-opacity=".22"/><stop offset="1" stop-color="#178c9b" stop-opacity="0"/></radialGradient>
     <style>
-      .signal { stroke-dasharray: 32 420; animation: flow 4.8s ease-in-out both; }
-      .orbit { transform-origin: 817px 120px; animation: orbit 4.8s ease-out both; }
+      .signal { stroke-dasharray: 32 420; animation: flow 6s ease-in-out infinite; }
+      .orbit { transform-origin: 817px 120px; animation: orbit 18s linear infinite; }
       @keyframes flow { from { stroke-dashoffset: 450; opacity: 0; } 20%, 80% { opacity: 1; } to { stroke-dashoffset: 0; opacity: 0; } }
-      @keyframes orbit { from { transform: rotate(-75deg); opacity: .2; } to { transform: rotate(0); opacity: 1; } }
+      @keyframes orbit { from { transform: rotate(0); } to { transform: rotate(360deg); } }
       @media (prefers-reduced-motion: reduce) { .signal { animation: none; opacity: 0; } .orbit { animation: none; } }
     </style>
   </defs>

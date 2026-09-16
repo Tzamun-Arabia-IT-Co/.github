@@ -1,8 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="88" viewBox="0 0 720 88" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="88" viewBox="0 0 720 88" role="img" aria-labelledby="title desc">
   <title id="title">What we do</title>
+  <desc id="desc">A building sequence moves through a code window. Text remains stationary. Animation respects reduced-motion preferences.</desc>
   <defs>
-    <linearGradient id="bg"><stop stop-color="#0d1b2a"/><stop offset="1" stop-color="#0a252c"/></linearGradient>
+    <linearGradient id="bg"><stop stop-color="#0d1b2a"/><stop offset="1" stop-color="#102b35"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#25d3b0"/><stop offset="1" stop-color="#4ba3ff"/></linearGradient>
+    <style>
+      .build{stroke-dasharray:12 70;animation:build 4s linear infinite}@keyframes build{to{stroke-dashoffset:-82}}.cursor{animation:cursor 3s ease-in-out infinite}@keyframes cursor{0%,100%{opacity:.35}50%{opacity:1}}
+      @media (prefers-reduced-motion: reduce) { .art * { animation: none !important; } .wave { opacity: .3; } }
+    </style>
   </defs>
   <rect x="1" y="1" width="718" height="86" rx="16" fill="url(#bg)" stroke="#234653"/>
   <rect x="24" y="25" width="3" height="38" rx="1.5" fill="url(#accent)"/>
@@ -10,9 +15,7 @@
     <text x="44" y="55" fill="#6ce2ce" font-size="20" font-weight="600">02</text>
     <text x="86" y="56" fill="#f0f6fc" font-size="30" font-weight="700">What we do</text>
   </g>
-  <g fill="none" stroke="url(#accent)" stroke-width="1.5">
-    <path d="M564 63h40l38-38h52" opacity=".45"/>
-    <circle cx="660" cy="44" r="22" opacity=".3"/>
-    <circle cx="660" cy="44" r="5" fill="#25d3b0" stroke="none"/>
+  <g class="art" fill="none" stroke="url(#accent)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="591" y="15" width="104" height="58" rx="8" fill="#10212e"/><path d="M591 29h104" opacity=".4"/><g fill="#6ce2ce" stroke="none"><circle cx="602" cy="22" r="2"/><circle cx="610" cy="22" r="2"/><circle cx="618" cy="22" r="2"/></g><path d="m622 40-10 9 10 9m34-18 10 9-10 9m-13-23-7 28" stroke-width="2.5"/><path class="build" d="M601 68h82" stroke="#25d3b0" stroke-width="3"/><path class="cursor" d="M674 58h9" stroke="#6ce2ce" stroke-width="3"/>
   </g>
 </svg>
