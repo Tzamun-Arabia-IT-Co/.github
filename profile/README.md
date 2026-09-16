@@ -79,16 +79,15 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://etabeb.com"><img src="logos/etabeb.png" width="72" alt="eTabeb logo"/></a><br/>
-      <b>eTabeb</b><br/>
+      <a href="https://etabeb.com"><img src="logos/card-etabeb.png" width="230" alt="eTabeb"/></a><br/>
       <sub>Appointment booking, offers & promotions, and multi-profile patient management</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/PathConnect-0EA5E9?style=for-the-badge&logo=probot&logoColor=white" alt="PathConnect"/><br/>
+      <img src="logos/card-pathconnect.png" width="230" alt="PathConnect"/><br/>
       <sub>Connects medical facilities with expert pathologists across KSA</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/RadioConnect-8B5CF6?style=for-the-badge&logo=rxlabs&logoColor=white" alt="RadioConnect"/><br/>
+      <img src="logos/card-radioconnect.png" width="230" alt="RadioConnect"/><br/>
       <sub>Remote radiology reporting and diagnostic imaging analysis</sub>
     </td>
   </tr>
@@ -99,17 +98,15 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://tzamunerp.com"><img src="logos/tzamunerp.png" width="72" alt="TzamunERP logo"/></a><br/>
-      <b>TzamunERP</b><br/>
+      <a href="https://tzamunerp.com"><img src="logos/card-tzamunerp.png" width="230" alt="TzamunERP"/></a><br/>
       <sub>Full-scale operations management for healthcare, manufacturing & SMEs — ERPNext-based, ZATCA-compliant</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://raqeb.cloud"><img src="logos/raqeb.png" width="72" alt="Raqeb PAM logo"/></a><br/>
-      <b>Raqeb PAM</b><br/>
+      <a href="https://raqeb.cloud"><img src="logos/card-raqeb.png" width="230" alt="Raqeb PAM"/></a><br/>
       <sub>Privileged Access Management for modern data centers — developed & hosted in Saudi Arabia</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/TCHub-475569?style=for-the-badge&logo=grafana&logoColor=white" alt="TCHub"/><br/>
+      <img src="logos/card-tchub.png" width="230" alt="TCHub"/><br/>
       <sub>Tzamun Control Hub — unified gateway for API management, access control & infrastructure monitoring</sub>
     </td>
   </tr>
@@ -119,22 +116,22 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 <table>
   <tr>
-    <td width="25%" valign="top" align="center">
-      <a href="https://tzamun.ai"><img src="logos/tzamunai.png" width="64" alt="TzamunAI logo"/></a><br/>
-      <b>TzamunAI</b><br/>
+    <td width="50%" valign="top" align="center">
+      <a href="https://tzamun.ai"><img src="logos/card-tzamunai.png" width="280" alt="TzamunAI"/></a><br/>
       <sub>Enterprise-grade on-premise AI — zero vendor dependency</sub>
     </td>
-    <td width="25%" valign="top" align="center">
-      <a href="https://auxly.io"><img src="logos/auxly.png" width="64" alt="Auxly logo"/></a><br/>
-      <b>Auxly</b><br/>
+    <td width="50%" valign="top" align="center">
+      <a href="https://auxly.io"><img src="logos/card-auxly.png" width="280" alt="Auxly"/></a><br/>
       <sub>AI task management with unified memory (Auxly-Memory)</sub>
     </td>
-    <td width="25%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
       <img src="https://img.shields.io/badge/DevAssist-181717?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="DevAssist"/><br/>
       <sub>Context-aware AI coding assistant (VSCode MCP)</sub>
     </td>
-    <td width="25%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/VoiceHub-E11D48?style=for-the-badge&logo=googletexttospeech&logoColor=white" alt="VoiceHub"/><br/>
+    <td width="50%" valign="top" align="center">
+      <img src="logos/card-voicehub.png" width="280" alt="VoiceHub"/><br/>
       <sub>Arabic voice automation for Saudi markets</sub>
     </td>
   </tr>
@@ -145,12 +142,11 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://motormind.autos"><img src="logos/motormind.png" width="72" alt="MotorMind logo"/></a><br/>
-      <b>MotorMind</b><br/>
+      <a href="https://motormind.autos"><img src="logos/card-motormind.png" width="230" alt="MotorMind"/></a><br/>
       <sub>Automotive workshop & garage management system</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/ManalBags-DB2777?style=for-the-badge&logo=shopify&logoColor=white" alt="ManalBags"/><br/>
+      <img src="logos/card-manal.png" width="230" alt="Manal Bags"/><br/>
       <sub>Rent premium designer handbags in Saudi Arabia</sub>
     </td>
     <td width="33%" valign="top" align="center">
