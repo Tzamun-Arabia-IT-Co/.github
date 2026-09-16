@@ -10,7 +10,7 @@
 
 <img src="logos/name-ar-gradient.svg" width="560" alt="شركة تزامن العربية لتقنية المعلومات"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1A73E8&center=true&vCenter=true&random=false&width=640&height=40&lines=Enterprise+Software+%7C+Sovereign+AI+%7C+Cloud+Infrastructure;Building+Saudi+Arabia's+digital+future+%F0%9F%87%B8%F0%9F%87%A6" alt="Typing SVG"/></a>
+<img src="animations/platforms.svg" width="100%" alt="Engineering the digital future — enterprise software, sovereign AI, and cloud infrastructure. Built in Saudi Arabia."/>
 
 We design, build, and operate **mission-critical digital platforms** — from full-scale ERP and healthcare systems to on-premise AI and privileged-access security — engineered for Saudi businesses and aligned with **Vision 2030**.
 
@@ -204,7 +204,7 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 <div align="center">
 
-<a href="https://tzamun.sa"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1300&color=1B95A8&center=true&vCenter=true&random=false&width=560&height=34&lines=Let%27s+build+something+exceptional+together.%3BReach+out+at+info%40tzamun.sa+%E2%80%94+we%27d+love+to+hear+from+you." alt="Typing SVG"/></a>
+<a href="https://tzamun.sa"><img src="animations/connect.svg" width="100%" alt="Let’s build what comes next. Start a conversation at tzamun.sa."/></a>
 
 </div>
 
@@ -240,6 +240,6 @@ Jeddah, Saudi Arabia · Proudly crafted in 🇸🇦 · Aligned with Vision 2030
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1B95A8,50:34A853,100:1A73E8&text=Thank+You+for+Visiting&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=34" width="100%" alt=""/>
+**Built with purpose. Ready for what’s next.**
 
 </div>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="160" viewBox="0 0 960 160" role="img" aria-labelledby="title desc">
+  <title id="title">Let's build what comes next.</title>
+  <desc id="desc">Start a conversation with Tzamun Arabia IT Co. at tzamun.sa. A subtle light travels along a teal and blue connection line.</desc>
+  <defs>
+    <linearGradient id="bg"><stop stop-color="#102b35"/><stop offset="1" stop-color="#101e32"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#25d3b0"/><stop offset="1" stop-color="#4ba3ff"/></linearGradient>
+    <style>
+      .signal { stroke-dasharray: 60 1000; animation: connect 4.8s ease-in-out both; }
+      @keyframes connect { from { stroke-dashoffset: 1060; opacity: 0; } 20%, 80% { opacity: 1; } to { stroke-dashoffset: 0; opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .signal { animation: none; opacity: 0; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="958" height="158" rx="20" fill="url(#bg)" stroke="#294a5e"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="40" y="67" fill="#f0f6fc" font-size="36" font-weight="700">Let's build what comes next.</text>
+    <text x="40" y="103" fill="#b5ccd9" font-size="19">Your next chapter starts with a conversation.</text>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="2">
+    <circle cx="858" cy="75" r="32" stroke-opacity=".4"/>
+    <path d="M843 75h29m-10-10 10 10-10 10" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 137h736l30-30h52" stroke-opacity=".22"/>
+    <path class="signal" d="M40 137h736l30-30h52"/>
+  </g>
+</svg>
