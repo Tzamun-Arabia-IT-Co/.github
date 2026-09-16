@@ -79,7 +79,8 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://etabeb.com"><img src="https://img.shields.io/badge/eTabeb-F9AB00?style=for-the-badge&logo=healthify&logoColor=white" alt="eTabeb"/></a><br/>
+      <a href="https://etabeb.com"><img src="logos/etabeb.png" width="72" alt="eTabeb logo"/></a><br/>
+      <b>eTabeb</b><br/>
       <sub>Appointment booking, offers & promotions, and multi-profile patient management</sub>
     </td>
     <td width="33%" valign="top" align="center">
@@ -98,11 +99,13 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://tzamunerp.com"><img src="https://img.shields.io/badge/TzamunERP-34A853?style=for-the-badge&logo=erpnext&logoColor=white" alt="TzamunERP"/></a><br/>
+      <a href="https://tzamunerp.com"><img src="logos/tzamunerp.png" width="72" alt="TzamunERP logo"/></a><br/>
+      <b>TzamunERP</b><br/>
       <sub>Full-scale operations management for healthcare, manufacturing & SMEs — ERPNext-based, ZATCA-compliant</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://raqeb.cloud"><img src="https://img.shields.io/badge/Raqeb_PAM-0A9396?style=for-the-badge&logo=keepersecurity&logoColor=white" alt="Raqeb PAM"/></a><br/>
+      <a href="https://raqeb.cloud"><img src="logos/raqeb.png" width="72" alt="Raqeb PAM logo"/></a><br/>
+      <b>Raqeb PAM</b><br/>
       <sub>Privileged Access Management for modern data centers — developed & hosted in Saudi Arabia</sub>
     </td>
     <td width="33%" valign="top" align="center">
@@ -117,11 +120,13 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 <table>
   <tr>
     <td width="25%" valign="top" align="center">
-      <a href="https://tzamun.ai"><img src="https://img.shields.io/badge/TzamunAI-1A73E8?style=for-the-badge&logo=minds&logoColor=white" alt="TzamunAI"/></a><br/>
+      <a href="https://tzamun.ai"><img src="logos/tzamunai.png" width="64" alt="TzamunAI logo"/></a><br/>
+      <b>TzamunAI</b><br/>
       <sub>Enterprise-grade on-premise AI — zero vendor dependency</sub>
     </td>
     <td width="25%" valign="top" align="center">
-      <a href="https://auxly.io"><img src="https://img.shields.io/badge/Auxly-8A2BE2?style=for-the-badge&logo=task&logoColor=white" alt="Auxly"/></a><br/>
+      <a href="https://auxly.io"><img src="logos/auxly.png" width="64" alt="Auxly logo"/></a><br/>
+      <b>Auxly</b><br/>
       <sub>AI task management with unified memory (Auxly-Memory)</sub>
     </td>
     <td width="25%" valign="top" align="center">
@@ -140,7 +145,8 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://motormind.autos"><img src="https://img.shields.io/badge/MotorMind-FF6F00?style=for-the-badge&logo=carthrottle&logoColor=white" alt="MotorMind"/></a><br/>
+      <a href="https://motormind.autos"><img src="logos/motormind.png" width="72" alt="MotorMind logo"/></a><br/>
+      <b>MotorMind</b><br/>
       <sub>Automotive workshop & garage management system</sub>
     </td>
     <td width="33%" valign="top" align="center">
