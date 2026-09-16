@@ -1,22 +1,23 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/main/Tzamun-Half-White-Logo@2x.png" width="180" alt="Tzamun Arabia IT Co." />
+<img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/main/Tzamun-Half-White-Logo@2x.png" width="200" alt="Tzamun Arabia IT Co."/>
 
 # Tzamun Arabia IT Co.
 
 ### شركة تزامن العربية لتقنية المعلومات
 
-**Saudi Arabia's partner for enterprise software, sovereign AI, and cloud infrastructure.**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1A73E8&center=true&vCenter=true&random=false&width=640&height=40&lines=Enterprise+Software+%7C+Sovereign+AI+%7C+Cloud+Infrastructure;Building+Saudi+Arabia's+digital+future+%F0%9F%87%B8%F0%9F%87%A6" alt="Typing SVG"/></a>
 
-We design, build, and operate mission-critical digital platforms — from full-scale ERP and healthcare systems to on-premise AI and privileged-access security — engineered for Saudi businesses and aligned with Vision 2030.
+We design, build, and operate **mission-critical digital platforms** — from full-scale ERP and healthcare systems to on-premise AI and privileged-access security — engineered for Saudi businesses and aligned with **Vision 2030**.
 
 <a href="https://tzamun.sa"><img src="https://img.shields.io/badge/Website-tzamun.sa-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="mailto:info@tzamun.sa"><img src="https://img.shields.io/badge/Email-info%40tzamun.sa-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Tzamun-Arabia-IT-Co"><img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<img src="https://img.shields.io/badge/📍_Riyadh%2C_Saudi_Arabia-0B5394?style=flat-square" alt="Location"/>
-<img src="https://img.shields.io/badge/🛡️_PDPL_&_ZATCA_Compliant-1E8449?style=flat-square" alt="Compliance"/>
-<img src="https://img.shields.io/badge/🇸🇦_Vision_2030_Aligned-006C35?style=flat-square" alt="Vision 2030"/>
+<img src="https://img.shields.io/badge/📍_Jeddah%2C_Saudi_Arabia-0B5394?style=flat-square" alt="Jeddah, Saudi Arabia"/>
+<img src="https://img.shields.io/badge/🛡️_PDPL_&_ZATCA_Compliant-1E8449?style=flat-square" alt="PDPL & ZATCA Compliant"/>
+<img src="https://img.shields.io/badge/🇸🇦_Vision_2030_Aligned-006C35?style=flat-square" alt="Vision 2030 Aligned"/>
+<img src="https://komarev.com/ghpvc/?username=Tzamun-Arabia-IT-Co&label=Profile+Views&color=1A73E8&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -26,20 +27,48 @@ We design, build, and operate mission-critical digital platforms — from full-s
 
 **Tzamun Arabia IT Co.** is a Saudi technology company delivering modern, scalable, and mission-critical digital platforms. We help organizations transform their operations through custom software development, cloud services, AI solutions, and enterprise-grade infrastructure — with a focus on quality, security, and long-term partnership.
 
-> **Our mission:** to be the first choice for clients seeking advanced IT services — custom business software, smart mobile applications, and digital solutions that accelerate growth and operational excellence.
+<div align="center">
+
+> 💡 **Our mission:** to be the first choice for clients seeking advanced IT services — custom business software, smart mobile applications, and digital solutions that accelerate growth and operational excellence.
+
+</div>
 
 ---
 
 ## 💼 What We Do
 
-| Domain | Services |
-|:---|:---|
-| 🖥️ **Custom Software** | Business & enterprise applications, corporate web platforms, e-commerce |
-| 📱 **Mobile Apps** | Native iOS & Android apps, smart application design & delivery |
-| ☁️ **Cloud & Infrastructure** | AWS · Azure · GCP · OCI · OVHcloud — hosting, VPS, hybrid & on-premise deployments |
-| 🤖 **Enterprise AI** | Sovereign, on-premise AI infrastructure — zero vendor dependency, PDPL-compliant |
-| 🎨 **UI/UX & Product Design** | Prototyping, user research, and experience design |
-| 🔧 **Consulting & Support** | Digital transformation, system integration, workflow automation, long-term support |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ Custom Software</h3>
+      <p>Business & enterprise applications, corporate web platforms, and e-commerce built to scale.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile Apps</h3>
+      <p>Native iOS & Android apps with smart application design and end-to-end delivery.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>☁️ Cloud & Infrastructure</h3>
+      <p>AWS · Azure · GCP · OCI · OVHcloud — hosting, VPS, hybrid & on-premise deployments.</p>
+    </td>
+    <td valign="top">
+      <h3>🤖 Enterprise AI</h3>
+      <p>Sovereign, on-premise AI infrastructure — zero vendor dependency, PDPL-compliant.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🎨 UI/UX & Product Design</h3>
+      <p>Prototyping, user research, and experience design that puts users first.</p>
+    </td>
+    <td valign="top">
+      <h3>🔧 Consulting & Support</h3>
+      <p>Digital transformation, system integration, workflow automation, long-term support.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -47,36 +76,83 @@ We design, build, and operate mission-critical digital platforms — from full-s
 
 ### 🏥 Healthcare & Medical
 
-| Platform | Description |
-|:---|:---|
-| **[eTabeb](https://etabeb.com)** | Appointment booking, offers & promotions, and multi-profile patient management |
-| **PathologyHub** | Connects medical facilities with expert pathologists across KSA |
-| **RadiologyHub** | Remote radiology reporting and diagnostic imaging analysis |
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://etabeb.com"><img src="https://img.shields.io/badge/eTabeb-F9AB00?style=for-the-badge&logo=healthify&logoColor=white" alt="eTabeb"/></a><br/>
+      <sub>Appointment booking, offers & promotions, and multi-profile patient management</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/PathConnect-0EA5E9?style=for-the-badge&logo=probot&logoColor=white" alt="PathConnect"/><br/>
+      <sub>Connects medical facilities with expert pathologists across KSA</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/RadioConnect-8B5CF6?style=for-the-badge&logo=rxlabs&logoColor=white" alt="RadioConnect"/><br/>
+      <sub>Remote radiology reporting and diagnostic imaging analysis</sub>
+    </td>
+  </tr>
+</table>
 
 ### 🏢 Enterprise & Operations
 
-| Platform | Description |
-|:---|:---|
-| **[TzamunERP](https://tzamunerp.com)** | Full-scale operations management for healthcare, manufacturing & SMEs — ERPNext-based, ZATCA-compliant |
-| **[Raqeb PAM](https://raqeb.cloud)** | Privileged Access Management for modern data centers — developed & hosted in Saudi Arabia |
-| **Infra Command Center** | Unified gateway for API management, access control & infrastructure monitoring |
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://tzamunerp.com"><img src="https://img.shields.io/badge/TzamunERP-34A853?style=for-the-badge&logo=erpnext&logoColor=white" alt="TzamunERP"/></a><br/>
+      <sub>Full-scale operations management for healthcare, manufacturing & SMEs — ERPNext-based, ZATCA-compliant</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://raqeb.cloud"><img src="https://img.shields.io/badge/Raqeb_PAM-0A9396?style=for-the-badge&logo=keepersecurity&logoColor=white" alt="Raqeb PAM"/></a><br/>
+      <sub>Privileged Access Management for modern data centers — developed & hosted in Saudi Arabia</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/Infra_Command_Center-475569?style=for-the-badge&logo=grafana&logoColor=white" alt="Infra Command Center"/><br/>
+      <sub>Unified gateway for API management, access control & infrastructure monitoring</sub>
+    </td>
+  </tr>
+</table>
 
 ### 🤖 AI & Developer Tools
 
-| Platform | Description |
-|:---|:---|
-| **[TzamunAI](https://tzamun.ai)** | Enterprise-grade on-premise AI — zero vendor dependency |
-| **[Auxly](https://auxly.io)** | AI task management with a unified memory layer (AuxlyCLI) |
-| **DevAssist (VSCode MCP)** | Context-aware AI coding assistant for developers |
-| **VoiceHub** | Arabic voice automation built for Saudi markets |
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <a href="https://tzamun.ai"><img src="https://img.shields.io/badge/TzamunAI-1A73E8?style=for-the-badge&logo=minds&logoColor=white" alt="TzamunAI"/></a><br/>
+      <sub>Enterprise-grade on-premise AI — zero vendor dependency</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://auxly.io"><img src="https://img.shields.io/badge/Auxly-8A2BE2?style=for-the-badge&logo=task&logoColor=white" alt="Auxly"/></a><br/>
+      <sub>AI task management with unified memory (AuxlyCLI)</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/DevAssist-181717?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="DevAssist"/><br/>
+      <sub>Context-aware AI coding assistant (VSCode MCP)</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/VoiceHub-E11D48?style=for-the-badge&logo=googletexttospeech&logoColor=white" alt="VoiceHub"/><br/>
+      <sub>Arabic voice automation for Saudi markets</sub>
+    </td>
+  </tr>
+</table>
 
 ### 🚗 Other Digital Ventures
 
-| Platform | Description |
-|:---|:---|
-| **[MotorMind](https://motormind.autos)** | Automotive workshop & garage management system |
-| **Luxury Rental Platform** | Rent premium designer handbags in Saudi Arabia |
-| **White-label AI & Voice** | In partnership with DataQueue Inc. |
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://motormind.autos"><img src="https://img.shields.io/badge/MotorMind-FF6F00?style=for-the-badge&logo=carthrottle&logoColor=white" alt="MotorMind"/></a><br/>
+      <sub>Automotive workshop & garage management system</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/ManalBags-DB2777?style=for-the-badge&logo=shopify&logoColor=white" alt="ManalBags"/><br/>
+      <sub>Rent premium designer handbags in Saudi Arabia</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/White--label_AI_&_Voice-334155?style=for-the-badge&logo=cachet&logoColor=white" alt="White-label AI & Voice"/><br/>
+      <sub>In partnership with DataQueue Inc.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -84,7 +160,7 @@ We design, build, and operate mission-critical digital platforms — from full-s
 
 <div align="center">
 
-**Languages & Frameworks**
+**⚙️ Languages & Frameworks**
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -93,7 +169,9 @@ We design, build, and operate mission-critical digital platforms — from full-s
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 
-**Cloud & DevOps**
+<br/>
+
+**☁️ Cloud & DevOps**
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -111,10 +189,13 @@ We design, build, and operate mission-critical digital platforms — from full-s
 
 <div align="center">
 
-**Tzamun Arabia IT Co.** · Saudi Arabia
+**Tzamun Arabia IT Co.** · 📍 Jeddah, Saudi Arabia
 
-🌐 [tzamun.sa](https://tzamun.sa) · ✉️ [info@tzamun.sa](mailto:info@tzamun.sa)
+<a href="https://tzamun.sa"><img src="https://img.shields.io/badge/Website-tzamun.sa-1A73E8?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:info@tzamun.sa"><img src="https://img.shields.io/badge/Email-info%40tzamun.sa-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-*Let's build something exceptional together.*
+<br/>
+
+*Let's build something exceptional together.* 🚀
 
 </div>
