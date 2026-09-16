@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/main/Tzamun-Half-White-Logo@2x.png" width="200" alt="Tzamun Arabia IT Co."/>
 
-# Tzamun Arabia IT Co.
+<img src="logos/name-gradient.png" width="580" alt="Tzamun Arabia IT Co."/>
 
 ### شركة تزامن العربية لتقنية المعلومات
 
