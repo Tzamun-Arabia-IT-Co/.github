@@ -99,7 +99,7 @@ We design, build, and operate **mission-critical digital platforms** — from fu
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://tzamunerp.com"><img src="logos/card-tzamunerp.png" width="230" alt="TzamunERP"/></a><br/>
-      <sub>Full-scale operations management for healthcare, manufacturing & SMEs — ERPNext-based, ZATCA-compliant</sub>
+      <sub>Full-scale operations management for healthcare, manufacturing & SMEs — ZATCA-compliant</sub>
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://raqeb.cloud"><img src="logos/card-raqeb.png" width="230" alt="Raqeb PAM"/></a><br/>
@@ -116,13 +116,17 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://tzamun.ai"><img src="logos/card-tzamunai.png" width="280" alt="TzamunAI"/></a><br/>
+    <td width="33%" valign="top" align="center">
+      <a href="https://tzamun.ai"><img src="logos/card-tzamunai.png" width="230" alt="TzamunAI"/></a><br/>
       <sub>Enterprise-grade on-premise AI — zero vendor dependency</sub>
     </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://auxly.io"><img src="logos/card-auxly.png" width="280" alt="Auxly"/></a><br/>
+    <td width="33%" valign="top" align="center">
+      <a href="https://auxly.io"><img src="logos/card-auxly.png" width="230" alt="Auxly"/></a><br/>
       <sub>AI task management with unified memory (Auxly-Memory)</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="logos/card-voicehub.png" width="230" alt="VoiceHub"/><br/>
+      <sub>Arabic voice automation for Saudi markets</sub>
     </td>
   </tr>
 </table>
