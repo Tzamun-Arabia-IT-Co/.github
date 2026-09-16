@@ -125,16 +125,6 @@ We design, build, and operate **mission-critical digital platforms** — from fu
       <sub>AI task management with unified memory (Auxly-Memory)</sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/DevAssist-181717?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="DevAssist"/><br/>
-      <sub>Context-aware AI coding assistant (VSCode MCP)</sub>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="logos/card-voicehub.png" width="280" alt="VoiceHub"/><br/>
-      <sub>Arabic voice automation for Saudi markets</sub>
-    </td>
-  </tr>
 </table>
 
 ### 🚗 Other Digital Ventures
