@@ -52,9 +52,9 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 ## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/sections/services.svg" width="100%" alt="What we do"/>
 
-From product design and development to deployment and ongoing support.
+<p align="center">From product design and development to deployment and ongoing support.</p>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/monitor.svg" width="18" alt=""/> Custom Software</h3>
@@ -93,11 +93,11 @@ From product design and development to deployment and ongoing support.
 
 ## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/sections/platforms.svg" width="100%" alt="Our platforms"/>
 
-Purpose-built products for healthcare, business operations, AI, and everyday services.
+<p align="center">Purpose-built products for healthcare, business operations, AI, and everyday services.</p>
 
-### <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/heart-pulse.svg" width="24" alt=""/> Healthcare & Medical
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/heart-pulse.svg" width="24" alt=""/> Healthcare & Medical</h3>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://etabeb.com"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-etabeb.png" width="230" alt="eTabeb"/></a><br/>
@@ -116,9 +116,9 @@ Purpose-built products for healthcare, business operations, AI, and everyday ser
   </tr>
 </table>
 
-### <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/building-2.svg" width="24" alt=""/> Enterprise & Operations
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/building-2.svg" width="24" alt=""/> Enterprise & Operations</h3>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://tzamunerp.com"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-tzamunerp.png" width="230" alt="TzamunERP"/></a><br/>
@@ -137,9 +137,9 @@ Purpose-built products for healthcare, business operations, AI, and everyday ser
   </tr>
 </table>
 
-### <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/bot.svg" width="24" alt=""/> AI & Developer Tools
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/bot.svg" width="24" alt=""/> AI & Developer Tools</h3>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://tzamun.ai"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-tzamunai.png" width="230" alt="TzamunAI"/></a><br/>
@@ -159,9 +159,9 @@ Purpose-built products for healthcare, business operations, AI, and everyday ser
   </tr>
 </table>
 
-### <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/car.svg" width="24" alt=""/> Other Digital Ventures
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/car.svg" width="24" alt=""/> Other Digital Ventures</h3>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://motormind.autos"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-motormind.png" width="230" alt="MotorMind"/></a><br/>
@@ -234,9 +234,9 @@ Purpose-built products for healthcare, business operations, AI, and everyday ser
 
 ## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/sections/open-source.svg" width="100%" alt="Open source"/>
 
-Tools we build and maintain in the open.
+<p align="center">Tools we build and maintain in the open.</p>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/Tzamun-Arabia-IT-Co/auxly-memory-cli">auxly-memory-cli</a></b><br/>
@@ -264,7 +264,7 @@ Tools we build and maintain in the open.
 
 ## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/sections/technology.svg" width="100%" alt="Technology stack"/>
 
-The tools behind our web, mobile, cloud, and AI platforms.
+<p align="center">The tools behind our web, mobile, cloud, and AI platforms.</p>
 
 <div align="center">
 
@@ -323,7 +323,7 @@ The tools behind our web, mobile, cloud, and AI platforms.
 
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td width="25%" align="center">
       <a href="https://tzamun.sa"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/globe.svg" width="34" alt="Website"/></a><br/>
