@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/Tzamun-Arabia-IT-Co/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not as public issues.
+  - name: Products, services and sales
+    url: https://tzamun.sa/contact
+    about: Questions about Tzamun platforms and services.

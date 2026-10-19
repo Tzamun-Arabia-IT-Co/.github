@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="88" viewBox="0 0 720 88" role="img" aria-labelledby="title desc">
+  <title id="title">Open source</title>
+  <desc id="desc">A git branch merges back into the main line with commits lighting up in sequence, alongside a code glyph. Text remains stationary. Animation respects reduced-motion preferences.</desc>
+  <defs>
+    <linearGradient id="bg"><stop stop-color="#0d1b2a"/><stop offset="1" stop-color="#0e2332"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#25d3b0"/><stop offset="1" stop-color="#4ba3ff"/></linearGradient>
+    <style>
+      .flow{stroke-dasharray:14 80;animation:flow 5s linear infinite}@keyframes flow{to{stroke-dashoffset:-94}}
+      .dot{animation:lightup 5s ease-in-out infinite}
+      .d1{animation-delay:0s}
+      .d2{animation-delay:.6s}
+      .d3{animation-delay:1.2s}
+      .d4{animation-delay:1.8s}
+      .d5{animation-delay:2.4s}
+      .d6{animation-delay:3.0s}
+      @keyframes lightup{0%,100%{fill:#102735;stroke:#2c5866}12%{fill:#ffffff;stroke:#6ce2ce}25%,70%{fill:#25d3b0;stroke:#4ba3ff}88%{fill:#102735;stroke:#2c5866}}
+      @media (prefers-reduced-motion: reduce) { .art * { animation: none !important; } .dot { fill: #25d3b0 !important; stroke: #4ba3ff !important; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="718" height="86" rx="16" fill="url(#bg)" stroke="#234653"/>
+  <rect x="24" y="25" width="3" height="38" rx="1.5" fill="url(#accent)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="44" y="55" fill="#6ce2ce" font-size="20" font-weight="600">05</text>
+    <text x="86" y="56" fill="#f0f6fc" font-size="30" font-weight="700">Open source</text>
+  </g>
+  <g class="art" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round">
+    <g opacity=".22" stroke-width="2">
+      <path d="M566 37l-6 7 6 7M586 37l6 7-6 7M579 33l-4 22"/>
+    </g>
+    <path d="M600 52h94" stroke="#234653" stroke-width="2"/>
+    <path d="M618 52c8 0 10-20 20-20h18c10 0 12 20 20 20" stroke="#234653" stroke-width="2"/>
+    <path class="flow" d="M618 52c8 0 10-20 20-20h18c10 0 12 20 20 20" stroke="url(#accent)" stroke-width="2"/>
+    <circle class="dot d1" cx="606" cy="52" r="4.5" fill="#102735" stroke="#2c5866" stroke-width="1.8"/>
+    <circle class="dot d2" cx="624" cy="52" r="4.5" fill="#102735" stroke="#2c5866" stroke-width="1.8"/>
+    <circle class="dot d3" cx="642" cy="32" r="4.5" fill="#102735" stroke="#2c5866" stroke-width="1.8"/>
+    <circle class="dot d4" cx="658" cy="32" r="4.5" fill="#102735" stroke="#2c5866" stroke-width="1.8"/>
+    <circle class="dot d5" cx="676" cy="52" r="4.5" fill="#102735" stroke="#2c5866" stroke-width="1.8"/>
+    <circle class="dot d6" cx="692" cy="52" r="4.5" fill="#102735" stroke="#2c5866" stroke-width="1.8"/>
+  </g>
+</svg>
