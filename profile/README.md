@@ -16,17 +16,20 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 
 <a href="https://tzamun.sa"><img src="https://img.shields.io/badge/Website-tzamun.sa-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=googlechrome&logoColor=6CE2CE" alt="Website"/></a>
 <a href="mailto:info@tzamun.sa"><img src="https://img.shields.io/badge/Email-info%40tzamun.sa-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=gmail&logoColor=6CE2CE" alt="Email"/></a>
-<a href="https://github.com/Tzamun-Arabia-IT-Co"><img src="https://img.shields.io/badge/GitHub-Organization-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=github&logoColor=6CE2CE" alt="GitHub"/></a>
+<a href="https://huggingface.co/TzamunAI"><img src="https://img.shields.io/badge/Hugging_Face-TzamunAI-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=huggingface&logoColor=6CE2CE" alt="Hugging Face"/></a>
+<a href="https://www.linkedin.com/company/tzamun/"><img src="https://img.shields.io/badge/LinkedIn-Tzamun-132D3A?style=for-the-badge&labelColor=0D1B2A&logo=linkedin&logoColor=6CE2CE" alt="LinkedIn"/></a>
 
 <img src="https://img.shields.io/badge/📍_Jeddah%2C_Saudi_Arabia-132D3A?style=flat-square" alt="Jeddah, Saudi Arabia"/>
 <img src="https://img.shields.io/badge/🛡️_PDPL_&_ZATCA_Compliant-132D3A?style=flat-square" alt="PDPL & ZATCA Compliant"/>
 <img src="https://img.shields.io/badge/🇸🇦_Vision_2030_Aligned-132D3A?style=flat-square" alt="Vision 2030 Aligned"/>
-<img src="https://komarev.com/ghpvc/?username=Tzamun-Arabia-IT-Co&label=Profile+Views&color=1B95A8&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/OpenAI_Select_Partner_%C2%B7_Claude_Code_Partner-132D3A?style=flat-square" alt="OpenAI Select Partner · Claude Code Partner"/>
+
+<img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/animations/stats.svg" width="100%" alt="Key metrics: 11 digital platforms, 6 OpenAI certifications, 2 AI partner programs, built in Saudi Arabia"/>
 
 </div>
 
 <p align="center">
-  <a href="#about">About</a> · <a href="#services">Services</a> · <a href="#platforms">Platforms</a> · <a href="#technology">Technology</a> · <a href="#partners">Partners</a> · <a href="#contact">Contact</a>
+  <a href="#about">About</a> · <a href="#services">Services</a> · <a href="#platforms">Platforms</a> · <a href="#ai-partners">AI Partners</a> · <a href="#open-source">Open Source</a> · <a href="#technology">Technology</a> · <a href="#partners">Partners</a> · <a href="#contact">Contact</a>
 </p>
 
 ---
@@ -140,7 +143,8 @@ Purpose-built products for healthcare, business operations, AI, and everyday ser
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://tzamun.ai"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-tzamunai.png" width="230" alt="TzamunAI"/></a><br/>
-      <p>Enterprise-grade on-premise AI — zero vendor dependency</p>
+      <p>Enterprise-grade on-premise AI — zero vendor dependency<br/>
+      <a href="https://tzamun.ai">tzamun.ai</a> · <a href="https://huggingface.co/TzamunAI">🤗 ILM models on Hugging Face</a></p>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://auxly.io"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/logos/card-auxly.png" width="230" alt="Auxly"/></a><br/>
@@ -172,9 +176,107 @@ Purpose-built products for healthcare, business operations, AI, and everyday ser
 
 ---
 
+<a name="ai-partners"></a>
+
+## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/sections/ai-partners.svg" width="100%" alt="AI partner programs"/>
+
+<p align="center">Tzamun Arabia IT Co., the company behind TzamunAI, is a member of the OpenAI Partner Network and Anthropic's Claude partner program.</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/partners/openai-select-partner.png" height="88" alt="OpenAI Select Partner"/><br/>
+      <sub>OpenAI Select Partner</sub>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/partners/claude-code-partner.png" height="120" alt="Claude Partner Badge - Claude Code"/><br/>
+      <sub>Claude Code Partner</sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">Our team's OpenAI certifications</h3>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/certs/openai-technical-practitioner.png" width="96" alt="OpenAI Technical Practitioner"/><br/>
+      <sub>OpenAI Technical Practitioner</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/certs/openai-consultative-solutions-practitioner.png" width="96" alt="OpenAI Consultative Solutions Practitioner"/><br/>
+      <sub>OpenAI Consultative Solutions Practitioner</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/certs/openai-chatgpt-solutions-practitioner.png" width="96" alt="OpenAI ChatGPT Solutions Practitioner"/><br/>
+      <sub>OpenAI ChatGPT Solutions Practitioner</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/certs/openai-codex-solutions-practitioner.png" width="96" alt="OpenAI Codex Solutions Practitioner"/><br/>
+      <sub>OpenAI Codex Solutions Practitioner</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/certs/openai-codex-deployment-practitioner.png" width="96" alt="OpenAI Codex Deployment Practitioner"/><br/>
+      <sub>OpenAI Codex Deployment Practitioner</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/certs/openai-cyber-deployment-practitioner.png" width="96" alt="OpenAI Cyber Deployment Practitioner"/><br/>
+      <sub>OpenAI Cyber Deployment Practitioner</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a name="open-source"></a>
+
+## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/sections/open-source.svg" width="100%" alt="Open source"/>
+
+Tools we build and maintain in the open.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Tzamun-Arabia-IT-Co/auxly-memory-cli">auxly-memory-cli</a></b><br/>
+      <p>Local-first, file-based memory for AI tools. Your context in plain Markdown - auditable, versionable, provider-agnostic.</p>
+      <a href="https://github.com/Tzamun-Arabia-IT-Co/auxly-memory-cli/releases"><img src="https://img.shields.io/github/v/release/Tzamun-Arabia-IT-Co/auxly-memory-cli?style=flat-square&color=1B95A8" alt="Release"/></a>
+      <img src="https://img.shields.io/github/license/Tzamun-Arabia-IT-Co/auxly-memory-cli?style=flat-square&color=1B95A8" alt="License"/>
+      <a href="https://github.com/Tzamun-Arabia-IT-Co/auxly-memory-cli/stargazers"><img src="https://img.shields.io/github/stars/Tzamun-Arabia-IT-Co/auxly-memory-cli?style=flat-square&color=1B95A8" alt="Stars"/></a><br/><br/>
+      <code>brew install Tzamun-Arabia-IT-Co/homebrew-tap/auxly</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Tzamun-Arabia-IT-Co/auxly-skills">auxly-skills</a></b><br/>
+      <p>Plan with a multi-model council, review one vetted plan, execute it. Agent skills for your coding CLIs.</p>
+      <img src="https://img.shields.io/github/license/Tzamun-Arabia-IT-Co/auxly-skills?style=flat-square&color=1B95A8" alt="License"/>
+      <a href="https://github.com/Tzamun-Arabia-IT-Co/auxly-skills/stargazers"><img src="https://img.shields.io/github/stars/Tzamun-Arabia-IT-Co/auxly-skills?style=flat-square&color=1B95A8" alt="Stars"/></a><br/><br/>
+      <a href="https://github.com/Tzamun-Arabia-IT-Co/auxly-skills">Read the guide →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Tzamun-Arabia-IT-Co/raqeb-sdk">raqeb-sdk</a></b><br/>
+      <p>Official Go SDK for Raqeb PAM - privileged database access and secrets management.</p>
+      <img src="https://img.shields.io/badge/Go-SDK-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go SDK"/>
+      <a href="https://github.com/Tzamun-Arabia-IT-Co/raqeb-sdk/releases"><img src="https://img.shields.io/github/v/release/Tzamun-Arabia-IT-Co/raqeb-sdk?style=flat-square&color=1B95A8" alt="Release"/></a><br/><br/>
+      <code>go get github.com/Tzamun-Arabia-IT-Co/raqeb-sdk</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Tzamun-Arabia-IT-Co/homebrew-tap">homebrew-tap</a></b><br/>
+      <p>Homebrew tap for Tzamun command-line tools.</p>
+      <code>brew tap Tzamun-Arabia-IT-Co/tap</code>
+    </td>
+  </tr>
+</table>
+
+<p align="center">🤗 Our ILM model family lives on <a href="https://huggingface.co/TzamunAI">Hugging Face</a>.</p>
+
+---
+
 <a name="technology"></a>
 
-## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/sections/technology.svg" width="100%" alt="Technology stack"/>
+## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/sections/technology.svg" width="100%" alt="Technology stack"/>
 
 The tools behind our web, mobile, cloud, and AI platforms.
 
@@ -185,6 +287,7 @@ The tools behind our web, mobile, cloud, and AI platforms.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -192,7 +295,6 @@ The tools behind our web, mobile, cloud, and AI platforms.
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" alt="Android Studio"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
 <img src="https://img.shields.io/badge/MCP-1B95A8?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
 
 <br/>
@@ -213,12 +315,11 @@ The tools behind our web, mobile, cloud, and AI platforms.
 
 <a name="partners"></a>
 
-## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/sections/partners.svg" width="100%" alt="Technology partners"/>
+## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/sections/partners.svg" width="100%" alt="Technology partners"/>
 
 <div align="center">
 
 <a href="https://partner.microsoft.com"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/partners/microsoft.svg" height="32" alt="Microsoft Partner"/></a>
-<a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Anthropic_(Claude)_Partner-D97757?style=for-the-badge&logo=anthropic&logoColor=000000" height="32" alt="Anthropic (Claude) Partner"/></a>
 <a href="https://www.nvidia.com"><img src="https://img.shields.io/badge/NVIDIA_Partner-76B900?style=for-the-badge&logo=nvidia&logoColor=000000" height="32" alt="NVIDIA Partner"/></a>
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/partners/aws.svg" height="32" alt="AWS Partner"/></a>
 
@@ -228,7 +329,7 @@ The tools behind our web, mobile, cloud, and AI platforms.
 
 <a name="contact"></a>
 
-## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/e5048a1f9e0f1ff92303174772344a57a074b38a/profile/sections/contact.svg" width="100%" alt="Get in touch"/>
+## <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/sections/contact.svg" width="100%" alt="Get in touch"/>
 
 <div align="center">
 
@@ -238,17 +339,22 @@ The tools behind our web, mobile, cloud, and AI platforms.
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <a href="https://tzamun.sa"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/globe.svg" width="34" alt="Website"/></a><br/>
       <b>Website</b><br/>
       <a href="https://tzamun.sa">tzamun.sa</a>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <a href="mailto:info@tzamun.sa"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/mail.svg" width="34" alt="Email"/></a><br/>
       <b>Email</b><br/>
       <a href="mailto:info@tzamun.sa">info@tzamun.sa</a>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
+      <a href="https://www.linkedin.com/company/tzamun/"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/handshake.svg" width="34" alt="LinkedIn"/></a><br/>
+      <b>LinkedIn</b><br/>
+      <a href="https://www.linkedin.com/company/tzamun/">Tzamun</a>
+    </td>
+    <td width="25%" align="center">
       <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/icons/map-pin.svg" width="34" alt="Headquarters"/><br/>
       <b>Headquarters</b><br/>
       Jeddah, Saudi Arabia
@@ -259,6 +365,8 @@ The tools behind our web, mobile, cloud, and AI platforms.
 ---
 
 <div align="center">
+
+شركة تزامن العربية لتقنية المعلومات · جدة، المملكة العربية السعودية
 
 **© 2026 Tzamun Arabia IT Co.** · All rights reserved
 
