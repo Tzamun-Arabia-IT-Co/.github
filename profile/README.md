@@ -306,7 +306,6 @@ We design, build, and operate **mission-critical digital platforms** — from fu
 <div align="center">
 
 <a href="https://partner.microsoft.com"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/partners/microsoft.svg" height="32" alt="Microsoft Partner"/></a>
-<a href="https://www.nvidia.com"><img src="https://img.shields.io/badge/NVIDIA_Partner-76B900?style=for-the-badge&logo=nvidia&logoColor=000000" height="32" alt="NVIDIA Partner"/></a>
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/b23d7747745a2d212bd4e9aa21d0a565fd73b2fc/profile/partners/aws.svg" height="32" alt="AWS Partner"/></a>
 
 </div>
