@@ -182,7 +182,7 @@ Purpose-built products for healthcare, business operations, AI, and everyday ser
 
 <p align="center">Tzamun Arabia IT Co., the company behind TzamunAI, is a member of the OpenAI Partner Network and Anthropic's Claude partner program.</p>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/partners/openai-select-partner.png" height="88" alt="OpenAI Select Partner"/><br/>
@@ -197,7 +197,7 @@ Purpose-built products for healthcare, business operations, AI, and everyday ser
 
 <h3 align="center">Our team's OpenAI certifications</h3>
 
-<table>
+<table align="center">
   <tr>
     <td width="33%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/Tzamun-Arabia-IT-Co/.github/24ee6ee516e409ac741bc10e326840e890a8fcaa/profile/certs/openai-technical-practitioner.png" width="96" alt="OpenAI Technical Practitioner"/><br/>
@@ -252,20 +252,6 @@ Tools we build and maintain in the open.
       <img src="https://img.shields.io/github/license/Tzamun-Arabia-IT-Co/auxly-skills?style=flat-square&color=1B95A8" alt="License"/>
       <a href="https://github.com/Tzamun-Arabia-IT-Co/auxly-skills/stargazers"><img src="https://img.shields.io/github/stars/Tzamun-Arabia-IT-Co/auxly-skills?style=flat-square&color=1B95A8" alt="Stars"/></a><br/><br/>
       <a href="https://github.com/Tzamun-Arabia-IT-Co/auxly-skills">Read the guide →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Tzamun-Arabia-IT-Co/raqeb-sdk">raqeb-sdk</a></b><br/>
-      <p>Official Go SDK for Raqeb PAM - privileged database access and secrets management.</p>
-      <img src="https://img.shields.io/badge/Go-SDK-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go SDK"/>
-      <a href="https://github.com/Tzamun-Arabia-IT-Co/raqeb-sdk/releases"><img src="https://img.shields.io/github/v/release/Tzamun-Arabia-IT-Co/raqeb-sdk?style=flat-square&color=1B95A8" alt="Release"/></a><br/><br/>
-      <code>go get github.com/Tzamun-Arabia-IT-Co/raqeb-sdk</code>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Tzamun-Arabia-IT-Co/homebrew-tap">homebrew-tap</a></b><br/>
-      <p>Homebrew tap for Tzamun command-line tools.</p>
-      <code>brew tap Tzamun-Arabia-IT-Co/tap</code>
     </td>
   </tr>
 </table>
